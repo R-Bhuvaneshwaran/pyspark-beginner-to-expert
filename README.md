@@ -15,5 +15,5 @@ This notebook covers:
 
 📌 This notebook is part of my “PySpark Series: Beginner to Expert”.
 
-Medium blog: [link]  
+Medium blog: https://medium.com/@Bhuvaneshwaran_16/title-starting-with-pyspark-understanding-sparksession-rdds-a-beginners-deep-dive-a4a80fc4f4b6?postPublishedType=repub  
 Notebook file: `Pyspark_Basics.ipynb`
