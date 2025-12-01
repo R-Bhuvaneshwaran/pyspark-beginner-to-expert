@@ -26,4 +26,5 @@ Creating DataFrames (list → DF, CSV, JSON, Parquet)
 # 🔗 Medium Blog Links  
 
 *SparkSession + RDDs* → https://medium.com/@Bhuvaneshwaran_16/title-starting-with-pyspark-understanding-sparksession-rdds-a-beginners-deep-dive-a4a80fc4f4b6
-*DataFrame Basics in PySpark* → `<your-medium-link>`
+
+*DataFrame Basics in PySpark* → https://medium.com/@Bhuvaneshwaran_16/pyspark-dataframes-explained-simply-your-complete-beginners-guide-93a007d9b98a?postPublishedType=repub
