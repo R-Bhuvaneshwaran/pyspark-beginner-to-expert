@@ -29,4 +29,4 @@ Examples for each concept
 
 *DataFrame Basics in PySpark* → https://medium.com/@Bhuvaneshwaran_16/pyspark-dataframes-explained-simply-your-complete-beginners-guide-93a007d9b98a?postPublishedType=repub
 
-*Advance DF Opr in PySpark* → 
+*Advance DF Opr in PySpark* → https://medium.com/@Bhuvaneshwaran_16/advanced-dataframe-operations-in-pyspark-from-intermediate-to-expert-part-3-70950d75ad90?postPublishedType=initial
