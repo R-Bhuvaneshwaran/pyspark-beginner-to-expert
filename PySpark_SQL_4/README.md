@@ -3,6 +3,8 @@
 This folder contains the notebook for **Blog PySpark SQL** of my PySpark Beginner → Expert series.  
 The focus of this notebook is to explain **Spark SQL from the ground up**, with clear explanations of every method, parameter, and SQL clause used.
 
+https://medium.com/@Bhuvaneshwaran_16/pyspark-sql-explained-clearly-writing-sql-on-distributed-data-without-confusion-d34668c7dc6b
+
 ---
 
 ## 📚 What This Notebook Covers
