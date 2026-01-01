@@ -3,6 +3,8 @@
 This folder contains the notebook for **Blog 7** of my PySpark Beginner → Expert series.  
 This notebook focuses entirely on **performance concepts**, explaining *why Spark jobs become slow* and *how to optimize them properly*.
 
+https://medium.com/@Bhuvaneshwaran_16/pyspark-performance-optimization-explained-how-to-write-fast-and-efficient-spark-jobs-aff117cbe8f0?postPublishedType=initial
+
 Every concept is explained from first principles, with real examples and clear reasoning.
 
 ---
