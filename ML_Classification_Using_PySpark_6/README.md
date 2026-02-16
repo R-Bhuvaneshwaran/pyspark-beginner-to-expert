@@ -1,4 +1,5 @@
 📘 PySpark MLlib Classification — First Machine Learning Model in Spark  
+https://medium.com/@Bhuvaneshwaran_16/pyspark-mllib-classification-explained-build-your-first-ml-model-with-pipelines-e50cf6ff17c4
 
 This folder contains the notebook for Blog 8 of my PySpark Beginner → Expert series.
 In this notebook, we move from data processing to machine learning on distributed data using PySpark MLlib.
